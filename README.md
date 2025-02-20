@@ -1,21 +1,15 @@
-📝 To-Do List Web Application
- 
+  📝 To-Do List Web Application
+ This is a simple To-Do List Web Application built using HTML, CSS, and JavaScript. It allows users to create, save, and organize their daily tasks efficiently.
 
-This is a simple To-Do List Web Application built using HTML, CSS, and JavaScript. It allows users to create, save, and organize their daily tasks efficiently.
-
-✨ Features
+ Features
 
 Add new tasks ✅
-
 Mark tasks as completed ✔️
-
 Delete tasks 🗑️
-
 Save tasks in local storage so they persist on page reload 🔄
-
 Simple and user-friendly UI 🎨
 
-🚀 Technologies Used
+   Technologies Used
 
 HTML for structure
 
@@ -23,12 +17,12 @@ CSS for styling
 
 JavaScript for functionality
 
-📂 Project Structure
+📂  Project Structure
 
-📦 To-Do List
- ├── 📄 index.html  (Main HTML file)
- ├── 🎨 styles.css  (CSS file for styling)
- ├── ⚙️ script.js   (JavaScript file for app logic)
+   📦 To-Do List
+        ├── 📄 index.html  (Main HTML file)
+        ├── 🎨 styles.css  (CSS file for styling)
+        ├── ⚙️ script.js   (JavaScript file for app logic)
 
 🎯 How to Run the Project
 
@@ -42,13 +36,13 @@ cd todo-list
 
 Open index.html in your browser.
 
-🛠️ Future Enhancements
+   Future Enhancements
 
-Add a due date feature 📅
+  Add a due date feature 📅
 
-Implement categories or tags 🏷️
+ Implement categories or tags 🏷️
 
-Allow users to edit tasks ✏️
+ Allow users to edit tasks ✏️
 
 Add a dark mode 🌙
 
@@ -56,9 +50,8 @@ Add a dark mode 🌙
 
 Feel free to contribute! Open an issue or submit a pull request if you have suggestions or improvements.
 
-📞 Contact
+ Contact
 
 abhisheksharmaip7@gmail.com
 
-Happy coding! 🚀!!!
-
+ 
