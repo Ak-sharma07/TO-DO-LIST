@@ -1,6 +1,5 @@
 📝 To-Do List Web Application
-
-📌 Overview
+ 
 
 This is a simple To-Do List Web Application built using HTML, CSS, and JavaScript. It allows users to create, save, and organize their daily tasks efficiently.
 
@@ -35,7 +34,7 @@ JavaScript for functionality
 
 Clone the repository:
 
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/Ak-sharma07/TO-DO-LIST
 
 Navigate to the project folder:
 
@@ -53,15 +52,13 @@ Allow users to edit tasks ✏️
 
 Add a dark mode 🌙
 
- 
-
 🤝 Contributing
 
 Feel free to contribute! Open an issue or submit a pull request if you have suggestions or improvements.
 
 📞 Contact
 
-For any queries, contact me at .abhisheksharmaip7@gmail.com
+abhisheksharmaip7@gmail.com
 
-Happy coding! 🚀
+Happy coding! 🚀!!!
 
